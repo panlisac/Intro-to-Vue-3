@@ -12,7 +12,8 @@ const app = Vue.createApp({
                 {
                     id: 2235, color: 'blue'
                 }
-            ]
+            ],
+            sizes: ['X-Small', 'Small', 'Medium', 'Large', 'X-Large']
         }
     }
 })
